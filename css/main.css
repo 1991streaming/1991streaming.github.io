@@ -53,15 +53,15 @@
 
 @keyframes  loader-in {
     0% {
-        transform: scale3d(0.7, 0.7, 0.7);
+        transform: scale3d(1, 1, 1);
     }
 
     50% {
-        transform: scale3d(1.2, 1.2, 1.2);
+        transform: scale3d(1, 1, 1);
     }
 
     80% {
-        transform: scale3d(0.95, 0.95, 0.95);
+        transform: scale3d(1, 1, 1);
     }
 
     100% {
